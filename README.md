@@ -18,9 +18,7 @@ Built with passion to deliver a smooth and attractive user experience.
 ![Dashboard View](screenshots/Dashboard.png)
 ![Workout Page](screenshots/Workout.png)
 
-## 🎥 Demo Videos
 
-videos/video.mp4
 
 
 
