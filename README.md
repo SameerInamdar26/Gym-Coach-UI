@@ -20,7 +20,7 @@ Built with passion to deliver a smooth and attractive user experience.
 
 ## 🎥 Demo Videos
 
-![Demo Video](videos/video.mp4)
+videos/video.mp4
 
 
 
