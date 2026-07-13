@@ -29,5 +29,5 @@ Built with passion to deliver a smooth and attractive user experience.
 1. Clone the repository
 2. Open `index.html` in your browser
 
-```bash
-git clone https://github.com/yourusername/Gym-Coach-UI.git
+## Demo
+https://sam-gym-coach.netlify.app/
